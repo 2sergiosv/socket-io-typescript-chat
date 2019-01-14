@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/twitter/url/https/github.com/luixaviles/socket-io-typescript-chat.svg?style=social" alt="Tweet">
     </a>
 </p>
-
+https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
 A Socket.io Chat Example Using TypeScript
 =========================================
 
